@@ -3,6 +3,7 @@ jairomoralesdlto@hotmail.com
 git remote show origin 
 git remote rm origin 
 
+-----------------------------
 
 GITHUB  
 https://github.com/jairomoralest
