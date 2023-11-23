@@ -13,13 +13,14 @@ p:Jairo2023..
 
 
 git remote add origin git@github.com:jairomoralest/codigo.git
+ 
 
-
+git merge DEV
 git branch -M main
 git remote add origin https://github.com/jairomoralest/codigo.git
 git push -u origin main
-
-git push -f origin main
+despues
+git push origin main
 
 
 TOKEN
